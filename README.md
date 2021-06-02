@@ -2,7 +2,7 @@
 
 ### First Portfolio Created at Epicodus
 
-#### By Sahyjemal Aganazarova
+#### _By Sahyjemal Aganazarova_
 
 ### Technologies Used
 
@@ -13,7 +13,7 @@
 
 ## Description
 
-#### This is the first site designed by a web software student. This site provides information about the student's education and work history.
+#### _This is the first site designed by a web software student. This site provides information about the student's education and work history._
 
 ## Setup/Installation  Requirements
 
