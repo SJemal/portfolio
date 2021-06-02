@@ -19,7 +19,7 @@
 
 * Open index.html
 * Clone github repository
-* This project can also be via Github Pages at 
+* This project can also be via Github Pages at : https://sjemal.github.io/portfolio/
 
 
 ## Known Bugs
