@@ -71,3 +71,18 @@ hr{
   
 
 }
+
+.middle-container{
+  margin: 100px o;
+  
+}
+.project-row{
+  margin: 100px auto 100px auto;
+  
+}
+.bottom-link{
+  color: blue;
+  font-family: sans-serif;
+  margin: 10px 20px;
+  
+}
