@@ -21,3 +21,12 @@ h4{
   padding-bottom: 10px;
   font-weight: normal;
 }
+
+.girl{
+  width: 200px;
+  height: 180px;
+  position: relative;
+  border-radius: 50%;
+  padding: 15px;
+}
+
