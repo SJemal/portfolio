@@ -17,12 +17,14 @@
 
 ## Setup/Installation  Requirements
 
-* 
+* Open index.html
+* Clone github repository
+* This project can also be via Github Pages at 
 
 
 ## Known Bugs
 
-*
+* None as of current
 
 
 ## Contact Information
