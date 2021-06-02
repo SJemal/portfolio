@@ -40,3 +40,19 @@ h4{
   margin: 50px auto;
 }
 
+.paragraf{
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(61, 55, 54);
+}
+
+.jobs{
+  border: 0px;
+  border-collapse: separate;
+  border-spacing: 5px;
+  table-layout: fixed;
+  text-align: center;
+  width: 100%;
+border-radius: 50%;
+
+}
