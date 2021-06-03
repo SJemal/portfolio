@@ -17,8 +17,9 @@
 
 ## Setup/Installation  Requirements
 
-* Open index.html
 * Clone github repository
+* Open the cloned file
+* Open index.html
 * This project can also be via Github Pages at : https://sjemal.github.io/portfolio/
 
 
