@@ -26,6 +26,11 @@
 
 * None as of current
 
+## License
+ [MIT](LICENSE)
+ 
+ #### Copyright (c) 2021 Sahyjemal Aganazarova
+
 
 ## Contact Information
 
