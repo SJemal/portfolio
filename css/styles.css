@@ -55,7 +55,6 @@ h4{
   text-align: center;
   width: 100%;
 border-radius: 50%;
-
 }
 
 .bottom{
@@ -69,18 +68,17 @@ hr{
   border-color: black;
   border-width: 3px;
   width: 5%;
-  
-
-}
+  } 
 
 .middle-container{
   margin: 100px o;
   
 }
+
 .project-row{
   margin: 100px auto 100px auto;
-  
 }
+
 .bottom-link{
   color: blue;
   font-family: sans-serif;
